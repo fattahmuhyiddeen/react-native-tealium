@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tealium:kotlin-visitor-service:1.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3bab78f02f34dd2619a0414056c9a39c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3bab78f02f34dd2619a0414056c9a39c/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3bab78f02f34dd2619a0414056c9a39c/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

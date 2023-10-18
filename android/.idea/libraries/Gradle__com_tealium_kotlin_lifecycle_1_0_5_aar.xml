@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tealium:kotlin-lifecycle:1.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e356a740755a90adf51538ac4967f787/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e356a740755a90adf51538ac4967f787/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e356a740755a90adf51538ac4967f787/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
